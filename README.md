@@ -1,5 +1,5 @@
 # mpy-esp32-test
-microPython测试代码
+microPython-esp32测试代码
 
 mian文件夹为自己编写的esp32-wroom开发板和lcd 160x128屏幕（st7735）的代码
 
